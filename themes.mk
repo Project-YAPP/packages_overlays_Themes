@@ -149,7 +149,7 @@ PRODUCT_PACKAGES += \
 
 # Stub
 PRODUCT_PACKAGES += \
-    AlthoThemesStub
+    EternityThemesStub
 
 # Plugins
 #-include packages/apps/PotatoPlugins/plugins.mk
